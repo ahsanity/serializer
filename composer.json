@@ -1,9 +1,10 @@
+
 {
-    "name": "ahsanity/serializer",
+    "name": "jms/serializer",
     "type": "library",
-    "description": "Library for (de-)serializing data of any complexity; supports XML, JSON, and YAML. Port of jms/serializer.",
+    "description": "Library for (de-)serializing data of any complexity; supports XML, JSON, and YAML.",
     "keywords": ["serialization", "deserialization", "json", "jaxb", "xml"],
-    "homepage": "https://github.com/ahsanity/serializer",
+    "homepage": "http://jmsyst.com/libs/serializer",
     "license": "Apache2",
     "authors": [
         {
